@@ -8,7 +8,7 @@ class Settings(BaseSettings):
     API_HASH: str
 
 
-    REF_LINK: str = "https://t.me/Binance_Moonbix_bot/start?startApp=ref_6624523270&startapp=ref_6624523270&utm_medium=web_share_copy"
+    REF_LINK: str = "https://t.me/Binance_Moonbix_bot/start?startApp=ref_7180733078&startapp=ref_7180733078&utm_medium=web_share_copy"
     AUTO_TASK: bool = True
     AUTO_PLAY_GAME: bool = True
     DELAY_EACH_ACCOUNT: list[int] = [60, 120]

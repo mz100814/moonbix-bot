@@ -1,6 +1,6 @@
 ## Recommendation before use
 
-# Join the bot [here](https://t.me/Binance_Moonbix_bot/start?startApp=ref_6624523270&startapp=ref_6624523270&utm_medium=web_share_copy)
+# Join the bot [here](https://t.me/Binance_Moonbix_bot/start?startApp=ref_7180733078&startapp=ref_7180733078&utm_medium=web_share_copy)
 
 > [!WARNING]
 > ⚠️ I do my best to avoid detection of bots, but using bots is forbidden in all airdrops. i cannot guarantee that you will not be detected as a bot. Use at your own risk. I am not responsible for any consequences of using this software.
